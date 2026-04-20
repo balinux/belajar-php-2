@@ -1,3 +1,3 @@
 <?php
 
-echo "tes2 php";
+echo "tes update file nomor 2 php";
